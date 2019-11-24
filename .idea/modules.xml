@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PAT-BASIC-IN-JAVA.iml" filepath="$PROJECT_DIR$/PAT-BASIC-IN-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patbasic/patbasic.iml" filepath="$PROJECT_DIR$/patbasic/patbasic.iml" />
     </modules>
   </component>
 </project>
